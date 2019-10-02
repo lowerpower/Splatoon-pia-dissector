@@ -7,7 +7,8 @@
 -- Refrence Used:
 --      https://mika-s.github.io/wireshark/lua/dissector/2017/11/04/creating-a-wireshark-dissector-in-lua-1.html
 --      https://wiki.oatmealdome.me/Pia_(Library)
---
+--      http://mk8.tockdom.com/wiki/Talk:MK8_Network_Protocol
+--      https://github.com/su63/Splatoon-Packet-Sniffing/blob/master/splatoon/splatoon/src/splatoon/NNPacket.java
 --
 
 
